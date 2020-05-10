@@ -12,6 +12,7 @@ public static void main(String[] args)
 	e1.add(3);
 	e1.add(7);
 	System.out.println(e1);
+	System.out.println("hey");
 	
 }
 }

@@ -11,6 +11,7 @@ public class Arraylistpgm1
 		a1.add('%');
 		a1.add("yash");
 		System.out.println(a1);
+		System.out.println("hey");
 	}
 	
 
